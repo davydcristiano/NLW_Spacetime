@@ -2,7 +2,7 @@
 
 Projeto desenvolvido na maratona NLW - Spacetime na trilha Explorer da Rocketseat a onde foi desenvolvido uma capsula do tempo.
 
-## Papar Information
+## Informações
 
 - Title: `NLW - Spacetime - Capsula do tempo`
 - Authors: `Davyd Cristiano`
