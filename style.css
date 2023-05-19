@@ -23,6 +23,11 @@ nav {
   overflow-y: scroll !important; /* Ativa a scrollbar no eixo y na vertical da página*/
 }
 
+.memory :hover {
+  transition: transform 0.2s; /* Animation */
+  transform: scale(1.1);
+}
+
 .memory {
   display: flex; /*Alinha um do lado do outro */
   flex-direction: column; /*Alinha um em baixo do outro */
